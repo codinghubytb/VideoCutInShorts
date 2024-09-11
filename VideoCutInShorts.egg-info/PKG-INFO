@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: VideoCutInShorts
+Version: 0.1.0
+Summary: Une bibliothèque pour découper des vidéos en plusieurs parties.
+Home-page: https://github.com/codinghubytb/VideoCutInShorts
+Author: TCodingHub
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: moviepy
+
+# VideoCutInShorts
+
+**VideoCutInShorts** est une bibliothÃ¨que Python permettant de dÃ©couper une vidÃ©o en plusieurs parties Ã©gales et d'enregistrer les chemins des fichiers vidÃ©o dans un fichier texte. Cette bibliothÃ¨que utilise `moviepy` pour la manipulation des vidÃ©os.
+
+## Installation
+
+Pour installer la bibliothÃ¨que, tu peux cloner le projet ou le tÃ©lÃ©charger et ensuite l'installer en local avec `pip` :
+
+```bash
+pip install .

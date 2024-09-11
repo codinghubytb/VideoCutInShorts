@@ -1,0 +1,8 @@
+LICENCE
+README.md
+setup.py
+VideoCutInShorts.egg-info/PKG-INFO
+VideoCutInShorts.egg-info/SOURCES.txt
+VideoCutInShorts.egg-info/dependency_links.txt
+VideoCutInShorts.egg-info/requires.txt
+VideoCutInShorts.egg-info/top_level.txt
